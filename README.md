@@ -8,7 +8,8 @@ This repository contains a simple Java application used for demonstration of CI 
 * Markdown file itself
 
 ## Connect me via 
-1. [GitHub]  (https://github.com/haprodeptrai123)
+1. [GitHub](https://github.com/haprodeptrai123)
 2. [Facebook](https://facebook.com/johnnysparta123)
-
-### © 2020 by haprodeptrai123
+3. [E-mail](haprodeptrai123@gmail.com)
+	
+### © 2020 by haprodeptrai123	| FPT University HCMC Campus
