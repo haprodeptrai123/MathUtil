@@ -18,6 +18,11 @@ public class MathUtil {
     // do int chi toi da 2b1, do do xai long an toan hon
     // tuy the 15! to lam, chi han che 15! tro lai
     public static long computeFactorial(int n) {
+
+        // hàm sẽ ném ngoại lệ nếu đưua n sai
+        if (n < 0 || n > 15) {
+            throw new IllegalArgumentException("Invalid arguement. n must be >=0 or <=15");
+        }
         long result = 1;
         for (int i = 1; i <= n; i++) {
             result *= i;
